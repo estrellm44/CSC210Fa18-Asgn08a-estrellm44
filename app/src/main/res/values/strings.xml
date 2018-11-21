@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GetWebPage</string>
+
+    <string-array name="spinner_url">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
+
